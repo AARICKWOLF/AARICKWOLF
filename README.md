@@ -1,9 +1,6 @@
 ### Hi there 👋
 <p align=”center”>
-
-<![LinkedIn cover - 1](https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/7060593e-cd1a-42cf-95bb-c5465e9539b0)
->
-
+<img width="1834" alt="Make your README (1)" src="https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/0adba33e-0479-4d61-9c9a-c32d329b74c1">
 </p>
 <!--
 **AARICKWOLF/AARICKWOLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
