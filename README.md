@@ -1,13 +1,8 @@
-### Hi there 👋
 <p align=”center”>
 <img width="1834" alt="Make your README (1)" src="https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/0adba33e-0479-4d61-9c9a-c32d329b74c1">
 </p>
-<!--
-**AARICKWOLF/AARICKWOLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<>
-
-
+<p align="left">
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,3 +12,4 @@ Here are some ideas to get you started:<>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</p>
