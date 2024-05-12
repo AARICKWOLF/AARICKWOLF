@@ -1,7 +1,8 @@
 ### Hi there 👋
 <p align=”center”>
 
-<img width="1834" alt="Make your README" src="https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/dfdcec9a-0abc-482c-ac5d-d2b87d504af3">
+<![LinkedIn cover - 1](https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/7060593e-cd1a-42cf-95bb-c5465e9539b0)
+>
 
 </p>
 <!--
