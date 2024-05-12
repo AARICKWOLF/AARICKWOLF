@@ -1,9 +1,14 @@
 ### Hi there 👋
+<p align=”center”>
 
+<img width="1834" alt="Make your README" src="https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/dfdcec9a-0abc-482c-ac5d-d2b87d504af3">
+
+</p>
 <!--
 **AARICKWOLF/AARICKWOLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:<>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
