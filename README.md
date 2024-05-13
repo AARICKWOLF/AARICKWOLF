@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width="1834" alt="Make your README (1)" src="https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/a56ef537-037c-4be5-9f2d-a691430743a5">
+<img width="1834" alt="Make your README (1)" src="https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/f99daaa0-c604-4ca9-bd47-1706f04cd710">
 </p>
 <p align="left">
 
