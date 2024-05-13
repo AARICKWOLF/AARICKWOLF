@@ -1,7 +1,8 @@
 <p align=”center”>
-<img width="1834" alt="Make your README (1)" src="https://github.com/AARICKWOL/AARICKWOLF/assets/122084815/0adba33e-0479-4d61-9c9a-c32d329b74c1">
+<img width="1834" alt="Make your README (1)" src="https://github.com/AARICKWOLF/AARICKWOLF/assets/122084815/4b41df04-9dfe-4bf0-a406-4886196bfcc6">
 </p>
 <p align="left">
+
 
 # ABOUT ME 🤖
 I, Sheshanth graphic designer ⚡,
