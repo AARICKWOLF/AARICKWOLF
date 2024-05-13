@@ -6,7 +6,7 @@
 
 
 # ABOUT ME 🤖
-I, Sheshanth graphic designer ⚡,
+Sheshanth graphic designer
 With over 2 years of experience in the field, I've had the privilege of bringing creative visions to life
 through stunning visuals.
 From eye-catching logos to captivating marketing materials, each project
